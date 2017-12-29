@@ -1,0 +1,1 @@
+var cHospital = angular.module("cHospital", ["ngRoute"]);
