@@ -35,7 +35,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Web -->
+		<!-- Webs -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
